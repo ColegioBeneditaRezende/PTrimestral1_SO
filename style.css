@@ -166,3 +166,6 @@ section .container .sobre-text {
     display: block;
     margin: 0 auto;
 }
+.alunos{
+    text-align: center;
+}
